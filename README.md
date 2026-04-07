@@ -142,7 +142,7 @@ This project focuses on the **design, simulation, and analysis of a Low Noise Am
 project/
 │── schematic_lna/
 │── results/
-│── plots/
+│── lna_design.doc/
 │── README.md
 ```
 
